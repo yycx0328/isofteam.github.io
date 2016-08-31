@@ -25,9 +25,8 @@ body {
     background: #f3f3f3;
 }
 
-#page-inner {
-    width: 100%;
-    margin: 10px 20px 10px 0px;
+#page-inner { 
+    margin: 10px 240px 40px 0px;
     background-color: transparent;
     padding: 10px;
 }
@@ -101,6 +100,7 @@ p {
 #page-wrapper {
     position: fixed;
     top: 55px;
+    overflow: auto;
 }
 
 .top-navbar .nav > li > a:hover,
@@ -679,6 +679,13 @@ ul.dropdown-menu.dropdown-messages li a div {
     line-height: 1.428571429;
 }
 
+.footer-style
+{
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    right: 40px;
+}
 
 /*----------------------------------------------
     MEDIA QUERIES     
