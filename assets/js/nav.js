@@ -10,6 +10,7 @@ function loadnav()
 	lihtml += "	<ul class='nav nav-second-level'>";
 	lihtml += "		<li><a href='experience.html'>总览</a></li>";
 	lihtml += "		<li><a href='about-me.html'>简说自己</a></li>";
+	lihtml += "		<li><a href='start-linux.html'>Linux开始</a></li>";
 	lihtml += "		<li><a href='start-github.html'>从Github开始</a></li>";
 	lihtml += "	</ul>";
 	lihtml += "</li>";
